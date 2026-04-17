@@ -2,7 +2,10 @@ import os
 import re
 import json
 from groq import Groq
+from dotenv import load_dotenv
 from tools import policy_tool, order_tool, register_order_tool
+
+load_dotenv() # read .env file
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
