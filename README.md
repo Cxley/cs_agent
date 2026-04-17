@@ -9,7 +9,7 @@ A conversational AI customer support agent for an e-commerce store, powered by *
 ### 1. Clone / download the project
 
 ```
-ai-customer-support/
+cs_agent_bot/
 ├── app.py
 ├── agent.py
 ├── memory.py
