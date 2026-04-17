@@ -1,6 +1,6 @@
 # AI Customer Support Agent
 
-A conversational AI customer support agent for an e-commerce store, powered by **Groq (LLaMA 3 70B)** with real tool calling, persistent memory, and a clean web interface.
+A conversational AI customer support agent for an e-commerce store.
 
 ---
 
