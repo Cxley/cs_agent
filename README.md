@@ -22,6 +22,8 @@ CS_agent_bot/
 ### 2. Install dependencies
 
 ```bash
+cd .\cs_agent-main\
+cd .\CS_agent_bot\
 pip install -r requirements.txt
 ```
 
